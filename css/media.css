@@ -1,0 +1,229 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	
+.slider_content h2 {
+    font-size: 30px;
+    margin-left: 110px;
+}
+.slider_content h1 {
+   font-size: 25px;
+    margin-left: 100px;
+    margin-bottom: 90px;
+}
+
+.logo_title {
+  
+    font-size: 18px;
+    margin-left: 60px;
+}
+.appointment {
+    font-size: 20px;
+}
+.feature_top h2 {
+    font-size: 30px;
+}
+.call{
+  
+  font-size: 18px;
+  margin: 0px;
+  
+}
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+	.logo_title {
+    font-size: 25px;
+    margin-left: 50px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+.logo_title {
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.call {
+    margin: 15px 0px;
+    font-size: 15px;
+    padding: 7px 0px;
+}
+
+.slider_content h2 {
+    font-size: 50px;
+    margin-left: 50px;
+}
+
+.slider_content h1 {
+    font-weight: 700;
+    font-size: 35px;
+    margin-left: 55px;
+}
+.appointment {
+    font-size: 20px;
+}
+.wwd1 img{
+  width: 400px;
+  margin-left: 0px;
+
+}
+.wwd3 img{
+  width: 400px;
+  margin-left: 0px;
+
+}
+.wwd1 h1 {
+    font-size: 25px;
+    color: #F42626;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.wwd3 h1 {
+    font-size: 25px;
+    color: #F42626;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.wwd2 h1 {
+    font-size: 25px;
+    color: #F42626;
+    text-align: center;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.wwd4 h1 {
+    font-size: 25px;
+    color: #F42626;
+    text-align: center;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.feature_top2 p {
+    font-weight: 500;
+    font-size: 15px;
+    color: #white;
+}
+	
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+.logo_title {
+  
+    font-size: 25px;
+    margin-left: 60px;
+}
+
+.call {
+    margin: 10px 0px;
+    font-size: 15px;
+    padding: 7px 0px;
+}
+
+.slider_content h2 {
+    font-weight: 500;
+    font-size: 60px;
+    margin-left: 100px;
+}
+
+.slider_content h1 {
+    font-weight: 700;
+    font-size: 50px;
+    margin-left: 75px;
+}
+.appointment {
+    font-size: 25px;
+    background-color: #F42626;
+    border-radius: 15px;
+    padding: 20px;
+}
+.wwd1 img{
+  width: 400px;
+  margin-left: 0px;
+
+}
+.wwd3 img{
+  width: 400px;
+  margin-left: 0px;
+
+}
+
+.wwd4 img {
+    width: 400px;
+    margin-right: 30px;
+    height: 265px;
+}
+
+.wwd2 img {
+    width: 400px;
+    margin-right: 30px;
+    height: 265px;
+}
+
+.wwd3 h1 {
+    font-size: 30px;
+    color: #F42626;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.wwd1 h1 {
+    font-size: 30px;
+    color: #F42626;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+
+.wwd4 h1 {
+    font-size: 30px;
+    color: #F42626;
+    text-align: center;
+    margin-right: 90px;
+    margin-top: 10px;
+}
+
+.wwd2 h1 {
+    font-size: 30px;
+    color: #F42626;
+    text-align: center;
+    margin-right: 90px;
+    margin-top: 10px;
+}
+}
+.tim img {
+    width: 440px;
+}
+
+element.style {
+}
+.tims p {
+    font-weight: 500;
+    font-size: 21px;
+    color: black;
+    margin-bottom: 0px;
+}
+
+.feature_top2 p {
+    font-weight: 500;
+    font-size: 24px;
+    color: #white;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+}
